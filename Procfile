@@ -1,2 +1,2 @@
 
-web: ./build/install/tracker/bin/tracker
+web: ./build/install/app/bin/app
