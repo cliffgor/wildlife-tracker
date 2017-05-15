@@ -21,7 +21,7 @@ test {
 }
 
 applicationName = "app"
-mainClassName = 'App'
+mainClassName = 'Animal'
 
 defaultTasks = ['clean']
 task stage(dependsOn: ['clean', 'installDist'])
